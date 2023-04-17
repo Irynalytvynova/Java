@@ -3,3 +3,5 @@ public class Conc {
         return str1+str2;
     }
 }
+    public static int strSize(String str) {
+        return str.length();
